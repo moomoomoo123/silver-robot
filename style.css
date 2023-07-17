@@ -1,0 +1,19 @@
+.heading {
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(213, 154, 243, 0.346);
+    border-radius: 12px;
+}
+
+.note {
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-size: cover;
+}
+
+
